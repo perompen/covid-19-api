@@ -1,9 +1,14 @@
 * {
     box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .container {
-    font-family: Arial, Helvetica, sans-serif;
-    background-color: pink;
+    background-color: lightgrey;
+    padding: 10px;
+}
+
+footer {
+    font-weight: bold;
     padding: 10px;
 }
